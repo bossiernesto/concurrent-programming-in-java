@@ -12,6 +12,9 @@ target/
 # Log file
 *.log
 
+#Vscode
+.vscode
+
 # Package Files #
 *.jar
 *.war
